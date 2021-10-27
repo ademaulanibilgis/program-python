@@ -16,3 +16,7 @@ keliling = 2*phi*r
 
 ## program menghitung luas dan keliling lingkaran
 [gambar 2](ss/ss1.png)
+
+kita menggunakan fungsi input dan output, karena agar memudahkan kita untuk memasukan nilai jari-jari (r). dan setelah kita memasukan nilai jari-jari  kita akan langsung mendapatkan nilai luas dan kelilingnya
+
+[gambar 3](ss/ss2.png)
