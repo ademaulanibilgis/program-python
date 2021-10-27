@@ -13,3 +13,6 @@ keliling = 2*phi*r
 
 ## flowchart 
 [gambar 1](ss/fc.png)
+
+## program menghitung luas dan keliling lingkaran
+[gambar 2](ss/ss1.png)
